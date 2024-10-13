@@ -1,0 +1,50 @@
+[
+    {
+      "timestamp": "10/6/2024 14:57",
+      "email": "astrogirl2448@gmail.com",
+      "name": {
+        "first": "Swati",
+        "last": "Mohan"
+      },
+      "age": "40-50",
+      "phone_number": "8585831185",
+      "location": {
+        "city": "Glendale",
+        "state": "CA",
+        "full_state": "California"
+      },
+      "session_type_preferences": [
+        "Exposure to STEAM in general",
+        "College guidance",
+        "Career guidance",
+        "Explore a particular field"
+      ],
+      "ethnicity": "South Asian: Includes Indian, Pakistan, Sri Lankan, Bangladesh",
+      "ethnicity_preference": "Prefer it, but available to others as needed",
+      "gender": "Cisgender Female",
+      "gender_preference": "Prefer it, but available to others as needed",
+      "mentoring_methods": ["Hybrid (both web and in person)"],
+      "role": "Mentor (the person providing guidance)",
+      "steam_background": "Professional",
+      "current_academic_level": "Graduated / Working Professional",
+      "profession": "GNC Lead for Mars Sample Retrieval Lander",
+      "employer": "NASA Jet Propulsion Laboratory",
+      "reasons_for_mentoring": "Give back to community",
+      "mentees_willing_to_advise": 3,
+      "availability": {
+        "monday": ["7pm to 9pm"],
+        "tuesday": ["7pm to 9pm"],
+        "wednesday": ["3pm to 5pm", "5pm to 7pm"],
+        "friday": ["3pm to 5pm", "5pm to 7pm"],
+        "saturday": ["3pm to 5pm", "5pm to 7pm"],
+        "sunday": ["3pm to 5pm", "5pm to 7pm"]
+      },
+      "unavailable_dates": ["20250115", "20250116", "20250117", "20250118"],
+      "match_pair_id": null,
+      "is_available_for_matching": true,
+      "id_number": null,
+      "mentoring_sessions_completed": null
+    }
+    
+  ]
+  
