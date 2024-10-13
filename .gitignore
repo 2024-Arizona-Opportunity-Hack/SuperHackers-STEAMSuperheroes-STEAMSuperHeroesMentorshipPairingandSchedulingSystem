@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+node_modules
+Data_management/node_modules
+
 /.pnp
 .pnp.js
 
